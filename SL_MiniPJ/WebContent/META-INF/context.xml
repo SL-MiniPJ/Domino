@@ -1,6 +1,6 @@
 <Context>
 	<Resource
-		name="jdbc/oracle"
+		name="jdbc/OracleDB"
 		
 		auth="Container" 
 	
@@ -10,9 +10,9 @@
 	
 		url="jdbc:oracle:thin:@127.0.0.1:1521:XE" 
 	
-		username="YE_TABLE"
+		username="minipj_domino"
 
-		password="ye1234" 
+		password="domino" 
 	
 		maxActive="20"
 	

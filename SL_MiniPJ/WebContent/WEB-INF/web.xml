@@ -12,17 +12,16 @@
 
 
 
-<!-- 맵핑
+
 	<servlet>
-		<servlet-name>BoardFrontController</servlet-name>
-		<servlet-class>net.board.action.BoardFrontController</servlet-class>
+		<servlet-name>ProductController</servlet-name>
+		<servlet-class>net.product.action.ProductController</servlet-class>
 	</servlet>
 	<servlet-mapping>
-		<servlet-name>BoardFrontController</servlet-name>
-		<url-pattern>*.bo</url-pattern>
+		<servlet-name>ProductController</servlet-name>
+		<url-pattern>*.pro</url-pattern>
 	</servlet-mapping>
 
- -->
 
 
 	<resource-ref>
